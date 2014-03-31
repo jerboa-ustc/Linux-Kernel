@@ -1,0 +1,1 @@
+cmd_/home/jerboa/proj/export_symb__test/test.ko := ld -r -m elf_i386 -T /usr/src/linux-3.8/scripts/module-common.lds --build-id  -o /home/jerboa/proj/export_symb__test/test.ko /home/jerboa/proj/export_symb__test/test.o /home/jerboa/proj/export_symb__test/test.mod.o
